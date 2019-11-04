@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+/.terraform/
+*.tfstate
+*.backup
+=======
+.terraform/
+/*.json
+/terraform.tfvars
+*.tfstate
+*.backup
+
+*~
+*.swp
+*.swo
+.idea*
+>>>>>>> 99290d5c14cccc4ba91ad4bac19258852d3f0c1a

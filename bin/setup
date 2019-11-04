@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Sets up the product. Infrastructure if this is an infrastructure product. Web
+# server or image if this is a web application, etc.
